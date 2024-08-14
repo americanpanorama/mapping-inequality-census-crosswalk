@@ -1,6 +1,6 @@
 # mapping-inequality-census-crosswalk
 
-This repo contains spatial files which combine [Mapping Inequality polygons](https://dsl.richmond.edu/panorama/redlining/data) and Census tracts from the [National Historic Geographic Information System](https://www.nhgis.org/) to create a data crosswalk. The files are useful for joining historically redlined areas to demographic data. This data is licensed under a CC-BY-NC.
+This repo contains spatial files which combine [Mapping Inequality polygons](https://dsl.richmond.edu/panorama/redlining/data) and Census tracts from the [National Historic Geographic Information System](https://www.nhgis.org/) to create a data crosswalk. The files are useful for joining historically redlined areas to demographic data. This data is licensed under a CC-BY-NC license.
 
 ## Fields
 
